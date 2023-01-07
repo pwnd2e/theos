@@ -1,0 +1,12 @@
+.bootstrap
+.DS_Store
+._*
+
+sdks/*
+toolchain/*
+
+include/*
+lib/*
+templates/*
+mod/*
+!*/.keep
