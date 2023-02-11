@@ -24,6 +24,7 @@ macOS, Linux, and Windows programs.
 <td align="center"><a href="https://github.com/kabiroberai"><img src="https://github.com/kabiroberai.png" width="100" alt=""><br>kabiroberai</a></td>
 <td align="center"><a href="https://github.com/DHowett"><img src="https://github.com/DHowett.png" width="100" alt=""><br>DHowett</a></td>
 <td align="center"><a href="https://github.com/rpetrich"><img src="https://github.com/rpetrich.png" width="100" alt=""><br>rpetrich</a></td>
+<td align="center"><a href="https://github.com/pwnd2e"><img src="https://avatars.githubusercontent.com/u/104146035?s=400&u=902919cfe472e62348f8dc8bfaa232e4cdd9ffa9&v=4" width="100" alt=""><br>pwnd2e</a></td>
 </tr>
 </table>
 
