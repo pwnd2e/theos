@@ -1,0 +1,10 @@
+.DS_Store
+/.build
+/packages
+xcuserdata/
+/.theos*
+build
+docs
+docs.json
+# deps depend on the Swift compiler version
+/Package.resolved

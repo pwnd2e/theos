@@ -1,0 +1,69 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://use.typekit.net/cve8hhe.css">
+
+<style>
+    @media screen and (max-width: 880px) {
+        .header {
+            flex-direction: column;
+        }
+
+        .twitter-typeahead {
+            width: 100%;
+        }
+
+        form[role=search] {
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+
+        form[role=search] input {
+            width: 100%;
+        }
+    }
+
+    /* undo the media query which makes it two columns */
+    @media (max-width: 1150px) {
+        .content-wrapper {
+            flex-direction: column !important;
+        }
+
+        .navigation {
+            order: 2;
+            width: inherit;
+            max-width: inherit;
+            padding-bottom: inherit;
+            overflow: inherit;
+            word-wrap: inherit;
+            background: inherit;
+            border-right: inherit;
+        }
+
+        .main-content {
+            order: 1;
+            flex: inherit;
+            padding-bottom: inherit;
+        }
+    }
+
+    .nav-group-task {
+        white-space: normal;
+    }
+
+    .inp {
+        color: #d14;
+    }
+
+    .trunc {
+        color: gray;
+    }
+
+    body {
+        font: 16px/1.7 sofia-pro, sans-serif !important;
+    }
+
+    .ansi-r { color: red; }
+    .ansi-g { color: green; }
+    .ansi-b { color: blue; }
+    .ansi-y { color: darkgoldenrod; }
+    .ansi-lb { color: skyblue; }
+</style>
